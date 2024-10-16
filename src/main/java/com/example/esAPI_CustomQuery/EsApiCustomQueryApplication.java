@@ -1,0 +1,13 @@
+package com.example.esAPI_CustomQuery;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EsApiCustomQueryApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EsApiCustomQueryApplication.class, args);
+	}
+
+}
